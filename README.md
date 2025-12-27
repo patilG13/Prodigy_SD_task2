@@ -1,7 +1,9 @@
 #🎯 Number Guessing Game
+
 A Python-based GUI number guessing game built with Tkinter. Features multiple difficulty levels, scoring, hints, statistics, and a persistent leaderboard.
 
 #Features
+
 🎮 Interactive GUI – Clean, modern interface with visual feedback
 
 📊 Multiple Difficulties – Easy, Medium, and Hard modes
@@ -17,11 +19,12 @@ A Python-based GUI number guessing game built with Tkinter. Features multiple di
 #🎨 Visual Feedback – Color-coded responses and icons for guesses
 
 Requirements
-Python 3.x
 
+Python 3.x
 tkinter (usually included with Python)
 
 #How to Run
+
 bash
 python Number_Guessing.py
 Game Rules
